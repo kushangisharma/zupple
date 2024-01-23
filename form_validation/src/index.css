@@ -1,0 +1,44 @@
+:root {
+  --bgColor-primary: rgba(33, 36, 55, 255);
+  --bgColor-secondary: rgba(17, 20, 29, 255);
+  --bgColor-loading: #333333;
+
+  --bgColor-primary-home: rgba(23, 31, 56, 255);
+  --bgColor-secondary-home: rgba(36, 46, 76, 255);
+
+  --color-primary: rgb(222, 219, 219);
+  --color-secondary: rgb(6, 130, 179);
+  --color-error: rgb(172, 6, 6);
+
+  --margin-normal: 30px;
+  --margin-small: 20px;
+  --margin-smaller: 10px;
+
+  --font-size-large: clamp(1.5rem, 2vw, 2rem);
+  --font-size-normal: clamp(0.9rem, 2vw, 1.1rem);
+  --font-size-small: clamp(0.5rem, 2vw, 0.9rem);
+
+  --border-radius-large: 10px;
+  --border-radius-normal: 5px;
+  --border-radius-small: 3px;
+
+  --border-color-focus: #f775c1;
+  --border-color-blur: #232B2B;
+
+  --laptop-screen: 1200px;
+  --tablet-screen: 800px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--bgColor-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: black;
+  border-radius: 30px;
+}

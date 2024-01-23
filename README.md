@@ -9,7 +9,7 @@ I used a tech stack that includes HTML, CSS, and JS, with React JS and TypeScrip
 Deployment Link:
 You can check out the deployed project 
 Form Validation - https://nimble-taffy-dc295e.netlify.app/
-
+Blockchain Explorer - https://65afbd42b8bc710e1e758035--lucent-twilight-2fb288.netlify.app/
 Screenshots:
 I've included screenshots for both the Form Page and Blockchain Explore Page in various views (desktop and mobile). This should give you a visual overview.
 

@@ -7,7 +7,8 @@ Tech Stack:
 I used a tech stack that includes HTML, CSS, and JS, with React JS and TypeScript powered by Vite. Material UI components, zod for form validation, and Axios for API calls played crucial roles.
 
 Deployment Link:
-You can check out the deployed project on ...
+You can check out the deployed project 
+Form Validation - https://nimble-taffy-dc295e.netlify.app/
 
 Screenshots:
 I've included screenshots for both the Form Page and Blockchain Explore Page in various views (desktop and mobile). This should give you a visual overview.
